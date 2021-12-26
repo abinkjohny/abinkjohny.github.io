@@ -586,7 +586,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Hobbies
 --------------------------------------------------------------*/
 .services .icon-box {
   margin-bottom: 20px;
@@ -715,6 +715,7 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+  background-color: #ecf0fc;
 }
 .contact .info {
   padding: 30px;
